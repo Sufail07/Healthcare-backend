@@ -303,15 +303,6 @@ Healthcare-backend/
 - **python-dotenv** - Environment variable management
 
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 👤 Author
-
-**Sufail**
-- GitHub: [@Sufail07](https://github.com/Sufail07)
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
@@ -325,7 +316,3 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 ## 📞 Support
 
 If you have any questions or need help, please open an issue on GitHub.
-
----
-
-⭐ Star this repository if you find it helpful!
